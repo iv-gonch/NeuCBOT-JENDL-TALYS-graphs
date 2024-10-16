@@ -1,0 +1,5 @@
+
+# Total neutron yield = 0.0  n/decay
+	 li6 0.0
+	 li7 0.0
+# Integral of spectrum = 0  n/decay
