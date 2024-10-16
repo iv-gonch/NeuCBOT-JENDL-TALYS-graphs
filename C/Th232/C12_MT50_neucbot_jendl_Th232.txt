@@ -1,0 +1,5 @@
+
+# Total neutron yield = 0.0  n/decay
+	 c12 0.0
+	 c13 0.0
+# Integral of spectrum = 0  n/decay
